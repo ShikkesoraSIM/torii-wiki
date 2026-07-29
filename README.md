@@ -37,6 +37,16 @@ Se edita el markdown y se pushea. osu-web revisa si cambio cada cinco horas, o
 en el momento si se configura el webhook de github. Los usuarios con permiso
 tienen ademas un boton de refrescar en la propia pagina.
 
+## Ojo con el Sitemap despues de reindexar
+
+`es:index-wiki` regenera el cache del sitemap apenas termina de indexar, y
+elasticsearch todavia no refresco los ultimos documentos, asi que el sitemap
+queda sin las ultimas paginas del orden alfabetico y se lo guarda cinco horas.
+Se ve como una pagina que existe, se abre y busca bien, pero no figura en la
+lista. Despues del index hay que regenerarlo aparte:
+
+    php artisan tinker --execute='App\Libraries\Wiki\WikiSitemap::expire(); App\Libraries\Wiki\WikiSitemap::get();'
+
 ## Bloques de aviso
 
 Los `:::` son de osu-wiki, no markdown estandar:
