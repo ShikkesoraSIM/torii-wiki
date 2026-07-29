@@ -2,9 +2,14 @@
 
 La wiki de Torii, en el formato que espera osu-web.
 
-Generada desde las paginas de React de `torii-lazer-web/src/pages/wiki` con
-`torii-wiki-convert.py` del fork de osu-web. El texto es el mismo, no se
-reescribio: solo cambia el envoltorio.
+Las ocho paginas de `wiki/` salen de las paginas de React de
+`torii-lazer-web/src/pages/wiki` con `torii-wiki-convert.py` del fork de
+osu-web. El texto es el mismo, no se reescribio: solo cambia el envoltorio.
+
+Las de `wiki/Legal/` NO: esas se escriben a mano aca y no tienen original en el
+spa. **No borres `wiki/` entero antes de regenerar**, que te llevas los tres
+archivos legales. El script sobreescribe lo suyo y no necesita que le limpien
+nada.
 
 ## Como la lee osu-web
 
@@ -14,6 +19,11 @@ del path del archivo:
 
     wiki/Rules/en.md        ->  /wiki/en/Rules
     wiki/Torii_points/en.md ->  /wiki/en/Torii_points
+
+Las de Legal salen por otra ruta, aunque el pipeline sea el mismo: las lee
+`LegalController` y van al pie de todas las paginas del sitio.
+
+    wiki/Legal/Terms/en.md  ->  /legal/en/Terms
 
 Para que apunte aca hacen falta cuatro variables en el contenedor (`WIKI_USER`,
 `WIKI_REPOSITORY`, `WIKI_BRANCH`, `GITHUB_TOKEN`) y despues una corrida de
@@ -31,8 +41,11 @@ tienen ademas un boton de refrescar en la propia pagina.
 
 Los `:::` son de osu-wiki, no markdown estandar:
 
-    ::: Tip
+    ::: alert-tip
     Lo importante.
     :::
 
-Valen `Tip`, `Note`, `Warning` y `Danger`.
+Valen `alert-tip`, `alert-note`, `alert-notice`, `alert-warning` y
+`alert-caution`, y nada mas: la lista esta en `style_block_allowed_classes` del
+preset `wiki` de `OsuMarkdown`. Si le pones otro nombre, el parser tira el
+envoltorio y deja el texto suelto sin avisar.

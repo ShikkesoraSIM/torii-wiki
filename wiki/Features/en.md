@@ -1,5 +1,7 @@
 # Features
 
+Torii is a custom osu!lazer build, so it carries a pile of things stock osu! does not. Here is what is in it.
+
 ::: alert-note
 **The economy is still being tuned**
 The points and the store work, but the numbers are placeholder and the whole economy gets wiped before the public launch, so whatever you pile up now will not carry over. Exact amounts are on the [Points & Economy](/wiki/Torii_points) page.

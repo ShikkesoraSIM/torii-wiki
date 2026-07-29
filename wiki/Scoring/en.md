@@ -1,5 +1,7 @@
 # Scoring & pp
 
+This is the page you end up on when a score gives 0pp. Leaderboards go by total score, and pp is a separate thing that a few specific mods and settings switch off. Everything below is what the server actually enforces.
+
 ## How a score earns pp
 
 pp is decided entirely on the server. The client cannot grant or change it. When a score is submitted, the server runs a fixed set of gates in order. If a score fails any gate it earns 0pp, but it is still recorded.

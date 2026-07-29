@@ -28,13 +28,15 @@ If you play fair and you are not trying to abuse anything, you will never have a
 
 ## 4. Maps & farming
 
+On Torii, unranked and graveyard maps give pp, and submitted maps are ranked right away. That also means a broken or abusable map can pay out unfair pp.
+
 1. Abusing anything in bad faith for unfair gain is bannable. That covers broken or abusable maps, pp farms, bugs and exploits, not one specific case.
 2. If you find something abusable (a map, a bug, an exploit), report it. Hiding it so you can farm it quietly is the bad-faith part, and that is what gets you in trouble.
 3. Staff can disqualify abused maps and the scores set on them.
 
 ::: alert-warning
 **Found something broken? Report it**
-Report it in Discord. Reporting is always the safe move. Quietly farming it is not.
+Report it in [Discord](https://discord.gg/fZXsZFT5Xv). Reporting is always the safe move. Quietly farming it is not.
 :::
 
 ## 5. Profile content
@@ -44,9 +46,15 @@ Report it in Discord. Reporting is always the safe move. Quietly farming it is n
 
 ## 6. Enforcement
 
+There is no rigid strike count. Staff use their judgement. Acting in bad faith (cheating, abusing something on purpose, evading a ban) gets you banned, sometimes after a single heads-up and sometimes not. Usually the first time someone abuses something without reporting it, they get one warning that it cannot happen again. If it happens again, that is it.
+
+Staff can also restrict an account as a precaution while they look into something, with no notice and no explanation up front. If that happens, you will notice the next time you try to log in. Come talk to us in Discord and we will explain.
+
 1. Bans and restrictions are always a manual staff decision. Nothing auto-bans you.
 2. If you are restricted, open a ticket in the Discord to ask about it or appeal.
 3. Lying or destroying evidence while staff look into something only makes it worse.
+
+What a restriction looks like in the client and how to appeal it is on the [Restrictions & Appeals](/wiki/Restrictions) page.
 
 ::: alert-note
 **Not sure about something?**
