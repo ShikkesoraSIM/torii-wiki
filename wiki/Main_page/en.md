@@ -1,65 +1,21 @@
 # Torii Wiki
 
-<div class="wiki-main-page__blurb">
-
 How Torii works, and the rules everyone plays by.
 
-</div>
+## [Rules](/wiki/Rules)
 
-<div class="wiki-main-page__panels">
+## [Features](/wiki/Features)
 
-<div class="wiki-main-page-panel">
+## [Scoring & pp](/wiki/Scoring)
 
-### [Rules](/wiki/Rules)
+## [Points & Economy](/wiki/Torii_points)
 
-</div>
+## [ToriiHalo Bot](/wiki/ToriiHalo)
 
-<div class="wiki-main-page-panel">
+## [Restrictions & Appeals](/wiki/Restrictions)
 
-### [Features](/wiki/Features)
+## [FAQ](/wiki/FAQ)
 
-</div>
+## [Getting Started](/how-to-join)
 
-<div class="wiki-main-page-panel">
-
-### [Scoring & pp](/wiki/Scoring)
-
-</div>
-
-<div class="wiki-main-page-panel">
-
-### [Points & Economy](/wiki/Torii_points)
-
-</div>
-
-<div class="wiki-main-page-panel">
-
-### [ToriiHalo Bot](/wiki/ToriiHalo)
-
-</div>
-
-<div class="wiki-main-page-panel">
-
-### [Restrictions & Appeals](/wiki/Restrictions)
-
-</div>
-
-<div class="wiki-main-page-panel">
-
-### [FAQ](/wiki/FAQ)
-
-</div>
-
-<div class="wiki-main-page-panel">
-
-### [Getting Started](/how-to-join)
-
-</div>
-
-<div class="wiki-main-page-panel">
-
-### [Discord](DISCORD_INVITE)
-
-</div>
-
-</div>
+## [Discord](DISCORD_INVITE)
