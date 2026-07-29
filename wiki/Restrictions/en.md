@@ -9,7 +9,7 @@ A restriction is staff pressing pause on an account. Here is what it does, what 
 3. It is not always permanent and not always a punishment. Sometimes it is precautionary while staff look into something.
 4. If your activity looks suspicious, staff can restrict the account while they investigate, without prior notice and without owing an explanation up front.
 
-There is no fixed strike count. A restriction is a staff call, and it can also be precautionary while they look into something. How enforcement actually works is on the [Rules](/wiki/Rules#enforcement) page.
+There is no fixed strike count. A restriction is a staff call, and it can also be precautionary while they look into something. How enforcement actually works is on the [Rules](/wiki/Rules#6.-enforcement) page.
 
 ## What you will see
 
