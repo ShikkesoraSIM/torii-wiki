@@ -2,7 +2,7 @@
 
 The short version: play in good faith and you are fine. You really do not need to memorize this page.
 
-::: Tip
+::: alert-tip
 **The one that actually matters: good faith** If you play fair and you are not trying to abuse anything, you will never have a problem on Torii, whether or not you have read a single rule below. And if something ever feels wrong, broken, or like it should not be possible, take that as your cue to report it. That is genuinely how this works. The rest of the page is just detail.
 :::
 
@@ -31,7 +31,7 @@ The short version: play in good faith and you are fine. You really do not need t
 2. If you find something abusable (a map, a bug, an exploit), report it. Hiding it so you can farm it quietly is the bad-faith part, and that is what gets you in trouble.
 3. Staff can disqualify abused maps and the scores set on them.
 
-::: Warning
+::: alert-warning
 **Found something broken? Report it** Report it in Discord. Reporting is always the safe move. Quietly farming it is not.
 :::
 
@@ -46,6 +46,6 @@ The short version: play in good faith and you are fine. You really do not need t
 2. If you are restricted, open a ticket in the Discord to ask about it or appeal.
 3. Lying or destroying evidence while staff look into something only makes it worse.
 
-::: Note
+::: alert-note
 **Not sure about something?** If a rule here is unclear or clashes with what the client actually does, ask in Discord.
 :::

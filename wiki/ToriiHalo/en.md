@@ -2,7 +2,7 @@
 
 ## On Discord: getting started
 
-::: Note
+::: alert-note
 **These are Discord commands** Everything in this section runs on the Torii Discord server, not in the game. Type a slash in any channel and Discord will show you the list as you type.
 :::
 
@@ -34,7 +34,7 @@
 | `/pay` | `<member> <amount>` | Send coins to somebody else. |
 | `/coins_top` |  | The richest people on the server. |
 
-::: Warning
+::: alert-warning
 **Coins are not pp** Nothing you do with coins touches your rank, your pp or your scores. They live on Discord.
 :::
 

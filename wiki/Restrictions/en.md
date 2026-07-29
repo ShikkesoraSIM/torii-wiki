@@ -15,6 +15,6 @@
 2. noreferrer
 3. text-amber-200 underline hover:text-amber-100
 
-::: Note
+::: alert-note
 **One account, one appeal path** Do not make a new account to get around a restriction. Ban evasion is itself bannable and it will not help your appeal. The ticket is the way back.
 :::
