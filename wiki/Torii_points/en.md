@@ -1,7 +1,8 @@
 # Points & Economy
 
 ::: alert-warning
-**About these numbers** The amounts here are the current values. They are still being tuned and can change, and the whole economy (every balance included) is reset before the public launch. So today's numbers are not promises, and old amounts will not carry over.
+**About these numbers**
+The amounts here are the current values. They are still being tuned and can change, and the whole economy (every balance included) is reset before the public launch. So today's numbers are not promises, and old amounts will not carry over.
 :::
 
 ## What points are

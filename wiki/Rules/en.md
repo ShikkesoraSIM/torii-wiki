@@ -3,7 +3,8 @@
 The short version: play in good faith and you are fine. You really do not need to memorize this page.
 
 ::: alert-tip
-**The one that actually matters: good faith** If you play fair and you are not trying to abuse anything, you will never have a problem on Torii, whether or not you have read a single rule below. And if something ever feels wrong, broken, or like it should not be possible, take that as your cue to report it. That is genuinely how this works. The rest of the page is just detail.
+**The one that actually matters: good faith**
+If you play fair and you are not trying to abuse anything, you will never have a problem on Torii, whether or not you have read a single rule below. And if something ever feels wrong, broken, or like it should not be possible, take that as your cue to report it. That is genuinely how this works. The rest of the page is just detail.
 :::
 
 ## 1. Respect & conduct
@@ -32,7 +33,8 @@ The short version: play in good faith and you are fine. You really do not need t
 3. Staff can disqualify abused maps and the scores set on them.
 
 ::: alert-warning
-**Found something broken? Report it** Report it in Discord. Reporting is always the safe move. Quietly farming it is not.
+**Found something broken? Report it**
+Report it in Discord. Reporting is always the safe move. Quietly farming it is not.
 :::
 
 ## 5. Profile content
@@ -47,5 +49,6 @@ The short version: play in good faith and you are fine. You really do not need t
 3. Lying or destroying evidence while staff look into something only makes it worse.
 
 ::: alert-note
-**Not sure about something?** If a rule here is unclear or clashes with what the client actually does, ask in Discord.
+**Not sure about something?**
+If a rule here is unclear or clashes with what the client actually does, ask in Discord.
 :::

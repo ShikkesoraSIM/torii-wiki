@@ -1,7 +1,8 @@
 # Features
 
 ::: alert-note
-**The economy is still being tuned** The points and the store work, but the numbers are placeholder and the whole economy gets wiped before the public launch, so whatever you pile up now will not carry over. Exact amounts are on the [Points & Economy](/wiki/Torii_points) page.
+**The economy is still being tuned**
+The points and the store work, but the numbers are placeholder and the whole economy gets wiped before the public launch, so whatever you pile up now will not carry over. Exact amounts are on the [Points & Economy](/wiki/Torii_points) page.
 :::
 
 ## Gameplay & pp

@@ -3,7 +3,8 @@
 ## On Discord: getting started
 
 ::: alert-note
-**These are Discord commands** Everything in this section runs on the Torii Discord server, not in the game. Type a slash in any channel and Discord will show you the list as you type.
+**These are Discord commands**
+Everything in this section runs on the Torii Discord server, not in the game. Type a slash in any channel and Discord will show you the list as you type.
 :::
 
 | Command | Arguments | What it does |
@@ -35,7 +36,8 @@
 | `/coins_top` |  | The richest people on the server. |
 
 ::: alert-warning
-**Coins are not pp** Nothing you do with coins touches your rank, your pp or your scores. They live on Discord.
+**Coins are not pp**
+Nothing you do with coins touches your rank, your pp or your scores. They live on Discord.
 :::
 
 ## On Discord: the rest
