@@ -16,6 +16,6 @@ How Torii works, and the rules everyone plays by.
 
 ## [FAQ](/wiki/FAQ)
 
-## [Getting Started](/how-to-join)
+## [Getting Started](/home/download)
 
-## [Discord](DISCORD_INVITE)
+## [Discord](https://discord.gg/fZXsZFT5Xv)
